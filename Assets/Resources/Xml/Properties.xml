@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<objectProperties>
+  <Properties ID ="Cube">
+    <position>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z></position>
+    <rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z></rotation>
+    <size>
+      <x>2</x>
+      <y>2</y>
+      <z>2</z></size>
+    <color>
+      <r>240</r>
+      <g>200</g>
+      <b>285</b></color>
+  </Properties>
+  
+  <Properties ID ="Sphere">
+    <position>
+      <x>10</x>
+      <y>20</y>
+      <z>30</z></position>
+    <rotation>
+      <x>10</x>
+      <y>50</y>
+      <z>200</z></rotation>
+    <size>
+      <x>5</x>
+      <y>5</y>
+      <z>5</z></size>
+    <color>
+      <r>200</r>
+      <g>250</g>
+      <b>100</b></color>
+  </Properties>
+  
+  <Properties ID ="Cylinder">
+    <position>
+      <x>50</x>
+      <y>40</y>
+      <z>30</z></position>
+    <rotation>
+      <x>60</x>
+      <y>70</y>
+      <z>90</z></rotation>
+    <size>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z></size>
+    <color>
+      <r>220</r>
+      <g>100</g>
+      <b>155</b></color>
+  </Properties>
+  
+</objectProperties>
